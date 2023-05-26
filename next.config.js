@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    BaseURL: "http://localhost:8000",
+    BaseURL: "https://api.maxcraftmc.ml",
   },
 }
 
